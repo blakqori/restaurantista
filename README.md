@@ -2,6 +2,9 @@
 
 Restaurantista is a modern and interactive restaurant web application that allows users to browse food menus, add items to cart, and simulate an online ordering experience.
 
+## Live Demo
+https://restaurantista-pi.vercel.app/
+
 ## Features
 - Responsive homepage design
 - Food carousel
